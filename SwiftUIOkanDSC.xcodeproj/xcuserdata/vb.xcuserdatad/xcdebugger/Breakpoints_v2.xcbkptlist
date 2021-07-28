@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C45850C8-63B9-49DC-8864-30418844614A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B90020F6-26C5-4D37-A744-E6A363DE4E1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIOkanDSC/Features/Add/DogAddView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B90020F6-26C5-4D37-A744-E6A363DE4E1C - 629c4667900c9a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in SwiftUIOkanDSC.DogAddView.body.getter : some"
+                  moduleName = "SwiftUIOkanDSC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb/Desktop/development/swift/SwiftUIOkanDSC/SwiftUIOkanDSC/Features/Add/DogAddView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "B90020F6-26C5-4D37-A744-E6A363DE4E1C - c4083ffe98a78d58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in SwiftUIOkanDSC.DogAddView.__preview__body.getter : some"
+                  moduleName = "DogAddView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb/Desktop/development/swift/SwiftUIOkanDSC/SwiftUIOkanDSC/Features/Add/DogAddView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "166">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A26F8E19-36A1-49B9-964B-2A8139667C59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIOkanDSC/Features/Add/AddDogViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "addAndClose()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3A339C7-3668-47EB-BFEB-3C202E828361"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIOkanDSC/Features/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B3A339C7-3668-47EB-BFEB-3C202E828361 - 7184564c919c800a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; SwiftUIOkanDSC.DogAddView in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.fullScreenCover&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in SwiftUIOkanDSC.HomeView.body.getter : some"
+                  moduleName = "SwiftUIOkanDSC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb/Desktop/development/swift/SwiftUIOkanDSC/SwiftUIOkanDSC/Features/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "B3A339C7-3668-47EB-BFEB-3C202E828361 - b339d9154e0241db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; &lt;&lt;opaque return type of SwiftUI.__designTimeSelection&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.View&gt;(&#x3c4;_0_0, Swift.String) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.__designTimeSelection&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.View&gt;(&#x3c4;_0_0, Swift.String) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.__designTimeSelection&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.View&gt;(&#x3c4;_0_0, Swift.String) -&gt; some&gt;&gt;.0&gt; in SwiftUIOkanDSC.HomeView.__preview__body.getter : some"
+                  moduleName = "HomeView.7.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb/Desktop/development/swift/SwiftUIOkanDSC/SwiftUIOkanDSC/Features/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
